@@ -1,9 +1,4 @@
-Here is a **clean, ready-to-upload `README.md`** for your GitHub repository.
-You can **copy–paste this directly** 👇
 
----
-
-```md
 # Hospital Appointment System (C++)
 
 A console-based Hospital Appointment Management System developed in **C++** using **Object-Oriented Programming (OOP)** concepts.  
@@ -65,53 +60,12 @@ The project includes a UML class diagram showing relationships between:
 * DifferentDoctor
 * Patient
 * Appointment
-
-(You can add the UML diagram image here)
-
----
-
-## 🖥️ Output Screenshots
-
-Add screenshots of program output here:
-
-* Doctor List
-* Patient Registration
-* Appointment Booking
-* Appointment History
-
----
-
-## 🎓 Academic Purpose
-
-This project is suitable for:
-
-* OOP (Object-Oriented Programming) coursework
-* University/College assignments
-* C++ practice projects
-* GitHub student portfolio
-
+* 
 ---
 
 ## 👤 Author
 
-**Alpha**
+**Muhammad danish**
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**.
-You are free to use, modify, and distribute this project.
-
-```
-
----
-
-If you want, I can also:
-- Add **badges (C++, OOP, MIT License)**  
-- Make it **more professional for portfolio**
-- Add **screenshots placeholders properly**
-- Customize it according to **teacher requirements**
-
-Just tell me 👍
-```
