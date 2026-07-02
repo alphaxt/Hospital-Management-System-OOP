@@ -25,6 +25,7 @@ protected:
 
 public:
     Doctor(string name = "", int age = 0, string specialization = "");
+    virtual ~Doctor() = default;
     virtual int consultationFee();
     bool isAvailable();
     void setAvailable(bool status);
